@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Suitmedia</string>
+    <string name="palindrome">Palindrome</string>
+    <string name="name">Name</string>
+    <string name="check">check</string>
+    <string name="next">Next</string>
+    <string name="choose_a_user">Choose a User</string>
+    <string name="welcome">Welcome</string>
+    <string name="user_name">user_name</string>
+    <string name="selected_user">Selected User</string>
+    <string name="retry">retry</string>
+</resources>
